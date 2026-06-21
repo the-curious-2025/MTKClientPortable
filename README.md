@@ -39,7 +39,7 @@ If you encounter issues:
 
 ## Credit
 
-Portable package by [@iosi-poli](https://github.com/iosi-poli)
+Portable package by [@sesese1234](https://github.com/sesese1234)
 
 ## About MTKClient
 
