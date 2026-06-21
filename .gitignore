@@ -1,3 +1,6 @@
+# Large files - download from releases
+*.zip
+
 # Python
 __pycache__/
 *.py[cod]
