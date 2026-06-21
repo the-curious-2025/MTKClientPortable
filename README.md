@@ -11,7 +11,7 @@ The folder contains a bundled Python environment together with the libraries MTK
 ## Quick Start
 
 1. **Download or clone this repository**
-2. **Extract `MTKCliantPortable.zip`** to the location you want to use
+2. **Extract `MTKClientPortable.zip`** to the location you want to use
 3. **Install `usbdk.exe`** from inside the ZIP
    - This is required for USB drivers to function properly
    - Without it, MTKClient may not detect or communicate with the device correctly

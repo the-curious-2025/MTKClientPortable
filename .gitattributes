@@ -1,1 +1,1 @@
-MTKCliantPortable.zip filter=lfs diff=lfs merge=lfs -text
+MTKClientPortable.zip filter=lfs diff=lfs merge=lfs -text

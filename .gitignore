@@ -1,6 +1,6 @@
 # Large files
 *.zip
-!MTKCliantPortable.zip
+!MTKClientPortable.zip
 
 # Python
 __pycache__/
