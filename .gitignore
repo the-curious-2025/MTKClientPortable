@@ -1,5 +1,6 @@
-# Large files - download from releases
+# Large files
 *.zip
+!MTKCliantPortable.zip
 
 # Python
 __pycache__/
