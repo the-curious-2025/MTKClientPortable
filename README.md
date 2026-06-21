@@ -1,5 +1,9 @@
 # MTKClient Portable
 
+## Platform
+
+Windows.
+
 ## What is this?
 
 A portable build of MTKClient that can be moved to another computer without installing Python, pip, or extra packages. The required environment is already included.
